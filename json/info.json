@@ -1,0 +1,17 @@
+[{
+        "title": "Maths",
+        "img": "img/maths.png"
+    },
+    {
+        "title": "Physical Science",
+        "img": "img/online-learning.png"
+    },
+    {
+        "title": "Geography",
+        "img": "img/geo.png"
+    },
+    {
+        "title": "Life Science",
+        "img": "img/microscope.png"
+    }
+]
